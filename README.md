@@ -11,7 +11,7 @@ https://zindi.africa/competitions/telangana-crop-health-challenge
     - Outlier Detection
     - Feature Engineering
     - Handle Imbalance
-2. Download the satellite images
-3. Add their data to our dataset
-4. Feature Importance Analysis
-5. Train our first model. Get our first metric.
+2. Train our first model. Get our first metric.
+3. Download the satellite images
+4. Add their data to our dataset
+
