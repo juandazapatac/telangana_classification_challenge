@@ -9,3 +9,6 @@ here we downloaded the satellite data following the guidelines provided by the c
 
 The link for the challenge is:
 https://zindi.africa/competitions/telangana-crop-health-challenge
+
+The link for the Github is:
+https://github.com/juandazapatac/telangana_classification_challenge
